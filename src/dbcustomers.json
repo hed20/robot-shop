@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "0": {
+        "id": "6ebbc150-9b80-44b3-9dce-dd4770fc2704",
+        "name": "Tommy - cleaning robot",
+        "price": 2000,
+        "inStock": 50,
+        "qty": 2
+      },
+      "forName": "s",
+      "surName": "s",
+      "mail": "s",
+      "address": "s",
+      "id": 1
+    },
+    {
+      "0": {
+        "id": "6ebbc150-9b80-44b3-9dce-dd4770fc2704",
+        "name": "Tommy - cleaning robot",
+        "price": 2000,
+        "inStock": 48,
+        "qty": 1
+      },
+      "forName": "s",
+      "surName": "s",
+      "mail": "s",
+      "address": "s",
+      "id": 2
+    }
+  ]
+}

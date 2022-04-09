@@ -1,0 +1,22 @@
+{
+  "robots": [
+    {
+      "id": "6ebbc150-9b80-44b3-9dce-dd4770fc2704",
+      "name": "Tommy - cleaning robot",
+      "price": 2000,
+      "inStock": 52
+    },
+    {
+      "id": "715c7312-a6ac-497d-be5a-752d1d2df3a0",
+      "name": "Roberta - cat feeding robot",
+      "price": 1800,
+      "inStock": 4
+    },
+    {
+      "id": "715c7312-a6ac-44b3-9dce-dd4770fc2704",
+      "name": "Alberto - dog feeding robot",
+      "price": 800,
+      "inStock": 7
+    }
+  ]
+}
